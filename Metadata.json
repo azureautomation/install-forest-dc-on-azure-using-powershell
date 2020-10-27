@@ -1,0 +1,20 @@
+{
+    "Author": "Tim Buntrock",
+    "ContentSize": 2752,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-forest-dc-on-azure-using-powershell/master/Install-Azure-Forest-DC.ps1",
+    "DownloadCount": 795,
+    "Id": "Install-Forest-DC-on-Azure-33f2c9e8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 597,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-5-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "If you are using this script you can create a Forest Domain Controller on Azure using PowerShell.",
+    "Title": "Install Forest DC on Azure using Powershell",
+    "UpdatedDate": "2018-5-8T00:00:00",
+    "Url": "https://github.com/azureautomation/install-forest-dc-on-azure-using-powershell",
+    "UserTags": "Azure, Microsoft Azure, Active Directory"
+}
